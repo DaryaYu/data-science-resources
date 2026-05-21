@@ -7,4 +7,4 @@
 
 ## Optimization Methods
 
-- [Applied Mathematical Programming by Bradley, Hax, and Magnanti (Addison-Wesley, 1977)](https://web.mit.edu/15.053/www/AMP.htm
+- [Applied Mathematical Programming by Bradley, Hax, and Magnanti (Addison-Wesley, 1977)] (https://web.mit.edu/15.053/www/AMP.htm)
